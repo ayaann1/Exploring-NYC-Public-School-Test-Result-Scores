@@ -1,2 +1,1 @@
-# Exploring-NYC-Public-School-Test-Result-Scores
-Explored a historical dataset of Nobel Prize laureates to identify trends in categories, gender, and nationalities over time. Utilized pandas, Seaborn, and Matplotlib to uncover patterns and communicate findings through clear visualizations.
+Analyzed standardized test results from New York City public schools to uncover insights about student performance across different districts.<br> The project involved cleaning and preparing raw educational data, performing exploratory data analysis (EDA), and visualizing key trends to identify disparities in student outcomes.
